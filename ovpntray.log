@@ -1,0 +1,24 @@
+Wed Nov 10 02:26:22 2021  TrayApp.main()
+Wed Nov 10 02:26:22 2021 going to enter main UI event loop...
+Wed Nov 10 02:26:22 2021 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Wed Nov 10 02:26:22 2021 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Wed Nov 10 02:26:22 2021 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Wed Nov 10 02:26:22 2021 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Wed Nov 10 02:26:22 2021 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Wed Nov 10 02:26:22 2021 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Wed Nov 10 02:26:22 2021 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Wed Nov 10 02:26:22 2021 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Wed Nov 10 02:26:22 2021 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Wed Nov 10 02:26:22 2021 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Wed Nov 10 02:26:22 2021 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Wed Nov 10 02:26:22 2021 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Wed Nov 10 02:26:22 2021 NIM_ADD failed: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:169 (pywintypes.error)
+Wed Nov 10 02:26:22 2021 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Wed Nov 10 02:26:22 2021 loaded resource DLL: 36241408
+Wed Nov 10 02:26:22 2021 run_client()
+Wed Nov 10 02:26:22 2021 TrackActiveProfiles sid='sess_TrackActiveProfiles_Iv275NZYSatTPzFJ_2'
+Wed Nov 10 02:26:22 2021 checking if there are any updates...
+Wed Nov 10 02:26:22 2021 no update available
+Wed Nov 10 02:26:22 2021 >>>> {'timestamp': 1636491382, 'state': 'add_profile', 'profile_id': '13_228_107_75_dynamic_p1978', 'type': 'PROFILE'}
+Wed Nov 10 02:26:22 2021 **** ADD PROFILE 13_228_107_75_dynamic_p1978
+Wed Nov 10 02:27:12 2021 Failed to add the taskbar icon: (1460, 'Shell_NotifyIcon', 'This operation returned because the timeout period expired.'): win/ovpntray:166 (pywintypes.error)
